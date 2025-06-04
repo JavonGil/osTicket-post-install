@@ -377,7 +377,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>✅Conclusion</h2>
 
-<p>That wraps up this project. We completed the post-install configurations for osTicket, setting things like departments, help topics, and agent roles. Now the system is ready to go live. In the next lab, we will put it all to the test by creating real tickets and handling them from different perspectives — as a User submitting issues, an Agent responding, and an Admin managing the backend.
+<p>That wraps up this project. We completed the post-install configurations for osTicket, setting things like departments, help topics, and agent roles. Now the system is ready to go live. In the next lab, we will put it all to the test by creating real tickets and handling them from different perspectives as a User submitting issues, an Agent responding, and an Admin managing the backend.
 Make sure to stop your VMs in Azure to save resources. Appreciate you checking out the project. Catch you in the next one 😎    
 </p>
 <br />
